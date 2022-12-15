@@ -1,0 +1,23 @@
+.contain-accordion{
+  width: 700px;
+  padding: 40px;
+  background: rgb(226, 226, 226);
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+summary{
+  background-color: rgb(106, 164, 164);
+  color: white;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.escrito{
+  padding: 10px;
+  background: #935959;
+  color: white;
+}
